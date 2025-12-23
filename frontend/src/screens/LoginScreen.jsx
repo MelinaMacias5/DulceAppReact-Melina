@@ -21,7 +21,7 @@ const LoginScreen = () => {
       <Ionicons name="cake" size={80} color="#A57F6D" style={styles.icon} />
       <Text style={styles.appTitle}>DulceApp</Text>
 
-      {/* Campo Correo Electronico */}
+      {/* Campo Correo Electronico. */}
       <View style={styles.inputContainer}>
         <Ionicons name="mail-outline" size={20} color="gray" />
         <TextInput
